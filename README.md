@@ -4,6 +4,8 @@
 # 我的博客演示
 [https://lixiaoran.github.io](https://lixiaoran.github.io)
 
+![](https://raw.githubusercontent.com/LiXiaoRan/PicGoBed/master/img/20191214172126.png)
+
 # 搭建教程
 [https://godweiyang.com/2018/04/13/hexo-blog/](https://godweiyang.com/2018/04/13/hexo-blog/)
 

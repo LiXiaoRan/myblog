@@ -16,9 +16,9 @@ menu:
   About:
     url: /about
     icon:
-  Friends:
-    url: /friends
-    icon:
+  # Friends:
+  #   url: /friends
+  #   icon:
   Contact:
     url: /contact
     icon:
@@ -47,7 +47,7 @@ music:
   showTitle: false
   title: 听听音乐
   fixed: false # 开启吸底模式
-  autoplay: true # 是否自动播放
+  autoplay: false # 是否自动播放
   theme: '#542674'
   loop: 'all' # 音频循环播放, 可选值: 'all', 'one', 'none'
   order: 'list' # 音频循环顺序, 可选值: 'list', 'random'
@@ -89,17 +89,17 @@ indexbtn:
   enable: true
   name: Github
   icon: fa-github-alt
-  url: https://github.com/godweiyang
+  url: https://github.com/LiXiaoRan
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  qq: 792321264
-  github: godweiyang
-  weibo: godweiyang
-  email: i@godweiyang.com
-  zhihu: godweiyang
+  qq: 997843911
+  github: LiXiaoRan
+  weibo: https://weibo.com/p/1005052262152247/home?from=page_100505&mod=TAB&is_all=1#place
+  email: liran997843911@163.com
+  zhihu: li-da-shen-53/activities
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -120,7 +120,7 @@ reward:
   enable: true
   title: 写作不易，客官能否打赏一杯奶茶？
   wechat: /medias/reward/wechat.png
-  alipay: /medias/reward/alipay.jpg
+  alipay: /medias/reward/alipay.jpeg
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
@@ -153,9 +153,9 @@ wordCount:
 # Whether to activate the 'love' effect of clicking on the page.
 # 是否激活点击页面的'爱心'效果，默认激活.
 clicklove:
-  enable: true
-explosion:
   enable: false
+explosion:
+  enable: true
 firework:
   enable: false
 text:
@@ -165,14 +165,14 @@ text:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/avatars/avatar.jpg
-  career: 华东师范大学 | 计算机科学与技术 | AntNLP
-  introduction: 我是华东师范大学计算机科学与技术专业2018级硕士研究生。直研进入本校计算机系攻读硕士，研究方向是深度学习与自然语言处理。我们实验室是AntNLP，欢迎大家报考！
+  career: 百度开发工程师准入职
+  introduction: 加油
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的项目"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myProjects:
-  enable: true
+  enable: false
   data:
     hexo-matery-modified:
       icon: fa-meetup
@@ -194,7 +194,7 @@ myProjects:
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的技能"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 mySkills:
-  enable: true
+  enable: false
   data:
     Algorithm:
       background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
@@ -239,12 +239,12 @@ postCalendar: true
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
   enable: true
-  owner: godweiyang
-  repo: godweiyang.github.io
+  owner: LiXiaoRan
+  repo: LiXiaoRan.github.io
   oauth:
-    clientId: 
-    clientSecret: 
-  admin: godweiyang
+    clientId: 79e9fd67cb771ace1475
+    clientSecret: f260ab616da25c777175550160b28d89477f69f5
+  admin: LiXiaoRan
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
@@ -272,7 +272,7 @@ livere:
 # To use it, activate the configuration item and set appId and appKey.
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
-  enable: true
+  enable: false
   appId: 
   appKey: 
   notify: false
@@ -286,7 +286,7 @@ valine:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/godweiyang
+  url: https://github.com/LiXiaoRan/LiXiaoRan.github.io
   title: Fork Me
 
 # The password verification feature of read post. To use this feature,

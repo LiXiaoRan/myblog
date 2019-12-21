@@ -1,23 +1,23 @@
 [
 	{
-		"name": "夜曲",
-		"artist": "周杰伦",
-		"url": "/medias/music/yequ.mp3",
-		"cover": "/medias/music/avatars/yequ.jpg"
+		"name": "回梦游仙",
+		"artist": "骆集益",
+		"url": "/medias/music/hmyx.mp3",
+		"cover": "/medias/music/avatars/hmyx.jpg"
 	},{
-		"name": "一路向北",
-		"artist": "周杰伦",
-		"url": "/medias/music/yiluxiangbei.mp3",
-		"cover": "/medias/music/avatars/yiluxiangbei.jpg"
+		"name": "いつも何度でも",
+		"artist": "竹仲絵里",
+		"url": "/medias/music/hd.mp3",
+		"cover": "/medias/music/avatars/offline-22715757.jpg"
 	},{
-		"name": "来自天堂的魔鬼",
-		"artist": "邓紫棋",
-		"url": "/medias/music/tiantangdemogui.mp3",
-		"cover": "/medias/music/avatars/tiantangdemogui.jpg"
+		"name": "玉人",
+		"artist": "张渠",
+		"url": "/medias/music/yr.mp3",
+		"cover": "/medias/music/avatars/yr.jpg"
 	},{
-		"name": "倒数",
-		"artist": "邓紫棋",
-		"url": "/medias/music/daoshu.mp3",
-		"cover": "/medias/music/avatars/daoshu.jpg"
+		"name": "Trine 2 Main Theme",
+		"artist": "Ari Pulkkinen",
+		"url": "/medias/music/Ari Pulkkinen - Trine 2 Main Theme.mp3",
+		"cover": "/medias/music/avatars/swyt.jpg"
 	}
 ]

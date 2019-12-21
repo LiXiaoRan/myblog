@@ -7,8 +7,8 @@ layout: "contact"
 
 # 欢迎留言
 大家有任何问题，都可以在评论区给我留言，或者加我联系方式：
-* QQ：**792321264**
-* 微信：**weiyang792321264**
+* QQ：**997843911**
+* 微信：**liran997843911**
 
 我很忙啦，如果不是很麻烦的问题就直接在评论区留言啦。
 **当然不介意小改改加我哦~~**
@@ -21,7 +21,7 @@ layout: "contact"
 * **头像：**你的头像地址
 
 例如我的博客友链，大家可以加到自己博客里哦：
-* **名称：**godweiyang
-* **地址：**https://godweiyang.com
-* **简介：**ECNU NLPer
-* **头像：**https://godweiyang.com/medias/avatars/avatar.jpg
+* **名称：**lee
+* **地址：**https://lixiaoran.github.io/
+* **简介：**FE Coder
+* **头像：**https://i0.hdslb.com/bfs/archive/a747e3824155b2ccb3f57782af239f8d6b72f285.jpg@412w_232h_1c_100q.webp

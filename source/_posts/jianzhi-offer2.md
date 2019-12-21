@@ -9,7 +9,6 @@ password:
 summary:
 tags:
 - 刷题
-- 递归
 - 数学
 categories:
 - 刷题
@@ -31,7 +30,6 @@ categories:
 若ai + aj > sum，aj肯定不是答案之一（前面已得出 i 前面的数已是不可能），j -= 1
 若ai + aj < sum，ai肯定不是答案之一（前面已得出 j 后面的数已是不可能），i += 1
 O(n)
-
 ## 代码
 ```js
 function FindNumbersWithSum(array, sum)
